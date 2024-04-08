@@ -1,28 +1,14 @@
-// project.js - purpose and description here
-// Author: Your Name
-// Date:
+// project.js - how-to book title generator
+// Author: Marcus Williamson
+// Date: 4/7/2024
 
 // NOTE: This is how we might start a basic JavaaScript OOP project
 
 // Constants - User-servicable parts
 // In a longer project I like to put these in a separate file
 
-// define a class
-class MyProjectClass {
-  // constructor function
-  constructor(param1, param2) {
-    // set properties using 'this' keyword
-    this.property1 = param1;
-    this.property2 = param2;
-  }
-  
-  // define a method
-  myMethod() {
-    // code to run when method is called
-  }
-}
-
 function main() {
+  console.log("hello");
   const fillers = {
     action: ["Survive", "Experience Success With", "Not Die to", "Play", "Cook", "Discover", "Understand", "Approach", "Become", "Not Become", "Escape", "Deal With", "Fight", "Recognize", "Win", "Beat", "Piss Off", "Improve", "Spice Up"],
     thing: ["Your Parents", "Chess", "Fish", "Cattle", "Farming", "School", "Your Life", "Public Speaking", "Meditation"],
