@@ -8,7 +8,6 @@
 // In a longer project I like to put these in a separate file
 
 function main() {
-  console.log("hello");
   const fillers = {
     action: ["Survive", "Experience Success With", "Not Die to", "Play", "Cook", "Discover", "Understand", "Approach", "Become", "Not Become", "Escape", "Deal With", "Fight", "Recognize", "Win", "Beat", "Piss Off", "Improve", "Spice Up"],
     thing: ["Your Parents", "Chess", "Fish", "Cattle", "Farming", "School", "Your Life", "Public Speaking", "Meditation"],
